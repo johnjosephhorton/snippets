@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: reg
+# key: reg
+# binding: direct-keybinding
+# --
+
+s <- stargazer(s)
