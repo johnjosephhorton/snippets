@@ -8,9 +8,26 @@
 % [   ] Table referenced in the text
 % [   ] Dependent variables labeled
 % [   ] Sample defined
+% ]   ] Replace N in table with description "Number of Job Applicants" 
 % [   ] Observation defined
 % [   ] Standard errors explained
 % [   ] Statistical model used
 % [   ] Statistical significance indicators
 % [   ] Any differences in sample size? If so, explained.
 % [   ] All columns referenced in the text
+% [   ] Report total observations and clusters if clustered 
+
+% [  ] Preview results when introducing a table.
+%  Example: Gentzgow & Shapiro, 2014, AER: 
+%  Given that households demand own-type newspapers and that same-type papers are substituitable, 
+%  we would expect that newspaper affiliation would response to household ideology and market structure. 
+%  Table 4 shows that these expectations are borne out in our data data. 
+%  The Table presents OLS regressions of a dummy..."
+
+% [  ] Make claims about economics significance and give examples: 
+%  Example: Gentzgow & Shapiro, 2014, AER 
+%  The effects we estimate in Specification (3) are economically significant: 
+%  A 10 percentage point increase in the fraction Republican among household increases the likelihood of 
+%  Republicant affiliation by 23 percentage points. 
+
+% [ ] Don't use the word "significant" 
