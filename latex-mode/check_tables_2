@@ -1,0 +1,18 @@
+% Report total observations and clusters if clustered 
+% Same outcome, different regressions coefficients - specifications 
+% Hypthesis - data claim pattern for writeup. 
+
+% Preview results when introducing a table.
+%  Example: Gentzgow & Shapiro, 2014, AER: 
+%  Given that households demand own-type newspapers and that same-type papers are substituitable, 
+%  we would expect that newspaper affiliation would response to household ideology and market structure. 
+%  Table 4 shows that these expectations are borne out in our data data. 
+%  The Table presents OLS regressions of a dummy..."
+
+% Make claims about economics significance and give examples: 
+%  Example: Gentzgow & Shapiro, 2014, AER 
+%  The effects we estimate in Specification (3) are economically significant: 
+%  A 10 percentage point increase in the fraction Republican among household increases the likelihood of 
+%  Republicant affiliation by 23 percentage points. 
+
+% Replace N in table with description "Number of Job Applicants" 
