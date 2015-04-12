@@ -1,0 +1,16 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: table_check_list
+# key: table_check_list
+# binding: direct-keybinding
+# --
+% [   ] Descriptive table title - purpose, context and 5Ws 
+% [   ] Properly-size (no overhang)
+% [   ] Table referenced in the text
+% [   ] Dependent variables labeled
+% [   ] Sample defined
+% [   ] Observation defined
+% [   ] Standard errors explained
+% [   ] Statistical model used
+% [   ] Statistical significance indicators
+% [   ] Any differences in sample size? If so, explained.
+% [   ] All columns referenced in the text

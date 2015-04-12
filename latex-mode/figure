@@ -1,0 +1,18 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: figure
+# key: figure
+# binding: direct-keybinding
+# --
+
+Figure~\ref{fig:figure_label} shows that TK.
+
+\begin{figure}[h]
+\centering
+\begin{minipage}{0.90 \linewidth}
+\caption{Here is a cool TK figure.} \label{fig:figure_label}
+\includegraphics[width = \linewidth]{./plots/TK.pdf}
+\\
+{\footnotesize \emph{Notes:} Here are some TK notes. 
+}
+\end{minipage}
+\end{figure}
